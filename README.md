@@ -1,8 +1,6 @@
-# Jogo de Aventura em Python
+### Desafio de Projeto do Bootcamp GFT Start #6 - Lógica de Programação - Jogo de Aventura em Python
 
-# Desafio de Projeto do Bootcamp GFT Start #6 - Lógica de Programação
-
-## Introdução
+### Introdução
 Seja bem-vindo ao Projeto Jogo de Aventura em Python! Este projeto foi desenvolvido com o objetivo de exercitar diversos conceitos fundamentais de programação, incluindo variáveis, operadores, laços de repetição, estruturas de decisão, funções, classes e objetos. Ele oferece uma base sólida para quem deseja se aprofundar na criação de jogos utilizando Python. Aproveite esta oportunidade para explorar, personalizar e aprimorar o projeto, deixando sua criatividade guiar o desenvolvimento!
 
 ## Objetivo
