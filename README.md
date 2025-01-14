@@ -7,6 +7,15 @@ Bem-vindo ao projeto Jogo de Aventura em Python! Este projeto foi criado para pr
 Criar uma classe genérica que represente um herói em uma aventura e implementar o método `atacar` conforme descrito abaixo.
 
 ## Estrutura do Projeto
+JogoAventura/
+│
+├── README.md          # Documentação do projeto
+├── heroi.py           # Código fonte da classe Heroi
+├── config/            # Arquivos de configuração (se necessário)
+├── scripts/           # Scripts individuais de automação (se necessário)
+├── logs/              # Arquivos de log (se necessário)
+└── data/              # Arquivos de dados (ex: arquivos CSV, se necessário)
+
 
 ## Requisitos
 - Python 3.x
