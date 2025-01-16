@@ -99,5 +99,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## 📧 Contato
 
-Para dúvidas ou sugestões, entre em contato pelo Linkedin: [linkedin.com/in/márcia-soares-236974256)
+Para dúvidas ou sugestões, entre em contato pelo LinkedIn: [Márcia Soares](https://www.linkedin.com/in/márcia-soares-236974256)
 
