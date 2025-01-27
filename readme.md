@@ -1,4 +1,4 @@
-![Descrição da Imagem](https://github.com/seu-usuario/seu-repositorio/imagem.png)
+![Descrição da Imagem](https://github.com/profamar/JogoAventura/blob/master/Jogo%20de%20Aventura_%20Classe%20Gen%C3%A9rica%20de%20Her%C3%B3i.png)
 
 # 🛡️ Jogo de Aventura: Classe Genérica de Herói
 
