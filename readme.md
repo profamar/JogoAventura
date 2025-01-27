@@ -1,3 +1,4 @@
+![Descrição da Imagem](https://github.com/seu-usuario/seu-repositorio/imagem.png)
 
 # 🛡️ Jogo de Aventura: Classe Genérica de Herói
 
